@@ -54,6 +54,3 @@ glut32.lib
 License:
 
 MIT License
-
-
-Test commit
