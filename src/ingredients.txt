@@ -1,0 +1,108 @@
+absinthe
+almond essence
+amaretto
+angostura bitters
+apple juice
+apple schnapps
+apricot brandy
+baileys
+banana liqueur
+benedictine
+blue curacao
+brandy
+butterscotch schnapps
+campari
+chambord
+champagne
+cherry liqueur
+cinnamon schnapps
+club soda
+coconut milk
+coconut rum
+coffee
+cognac
+cointreau
+coke
+collins
+cranberry juice
+cranberry liqueur
+cream
+cream of coconut
+creme de banana
+creme de cacao
+creme de cassis
+creme de mure
+cuervo
+dark creme de cacao
+dark rum
+drambuie
+dry vermouth
+eggnog
+expresso
+frangelico
+galliano
+gin
+ginger beer
+grand marnier
+grapefruit juice
+green chartreuse
+green creme de cacao
+grenadine
+hazelnut liqueur
+horseradish sauce
+hot chocolate
+ice tea
+irish cream liqueur
+italian vermouth
+jagermeister
+kahlua
+kummel
+lemon juice
+lemon lime soda
+lemonade
+light rum
+lime juice
+malibu
+maraschino
+melon liqueur
+midori
+milk
+orange bitters
+orange curacao
+orange juice
+orgeat syrup
+ouzo
+overproof rum
+pastis
+peach juice
+peach schnapps
+pineapple juice
+pomegranate juice
+raspberry liqueur
+red vermouth
+rum
+sherry
+soda water
+sour mix
+southern comfort
+sparkling water
+strawberry liqueur
+sugar syrup
+sweet vermouth
+tabasco
+tequila
+tia maria
+tomato juice
+tonic water
+triplesec
+vanilla schnapps
+vodka
+water
+whipped cream
+whiskey
+white creme de cacao
+white creme de menthe
+white rum
+worcestershire
+yellow chartreuse
+end

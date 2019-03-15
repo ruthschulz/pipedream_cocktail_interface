@@ -1,0 +1,1705 @@
+a bumpy sunrise
+orange juice: 90.0
+white rum: 30.0
+grenadine: 10.0
+end
+alabama slammer
+amaretto: 15.0
+grenadine: 15.0
+orange juice: 60.0
+pineapple juice: 60.0
+whiskey: 10.0
+end
+Alabama Slammer Shooter
+vodka: 10.0
+amaretto: 10.0
+southern comfort: 10.0
+orange juice: 10.0
+end
+Alamo Splash
+tequila: 45.0
+orange juice: 30.0
+pineapple juice: 15.0
+lemon lime soda: 10.0
+end
+Alaska
+gin: 60.0
+yellow chartreuse: 30.0
+orange bitters: 15.0
+end
+alaskan suntan
+orange juice: 60.0
+white rum: 30.0
+vodka: 30.0
+gin: 15.0
+pineapple juice: 60.0
+end
+alien secretion
+midori: 60.0
+pineapple juice: 90.0
+white rum: 30.0
+end
+Almond Cream Cocktail
+baileys: 60.0
+cream: 60.0
+almond essence: 10.0
+end
+amaretto
+amaretto: 30.0
+end
+amaretto roller
+amaretto: 90.0
+coke: 90.0
+end
+amaretto sour
+amaretto: 90.0
+sour mix: 90.0
+end
+angel eyes
+tequila: 90.0
+coke: 30.0
+orange juice: 60.0
+end
+Anouchka
+vodka: 60.0
+creme de mure: 30.0
+end
+Aqua Thunder
+midori: 30.0
+blue curacao: 15.0
+banana liqueur: 15.0
+lemon juice: 10.0
+soda water: 90.0
+end
+arlo bomb
+vodka: 60.0
+coke: 90.0
+grenadine: 15.0
+end
+B-51
+kahlua: 30.0
+baileys: 30.0
+white rum: 30.0
+end
+B52
+grand marnier: 30.0
+kahlua: 30.0
+irish cream liqueur: 30.0
+end
+Bacardi Cocktail
+white rum: 60.0
+lime juice: 30.0
+grenadine: 15.0
+end
+bahama mama
+grenadine: 10.0
+orange juice: 60.0
+pineapple juice: 30.0
+sour mix: 30.0
+white rum: 60.0
+end
+Baileys Alexander Cocktail
+brandy: 45.0
+baileys: 30.0
+end
+Baileys Alexander Cocktail 2
+brandy: 45.0
+baileys: 30.0
+white creme de cacao: 30.0
+end
+banana popsicle
+coke: 90.0
+midori: 30.0
+end
+Bastille Bomb
+grenadine: 30.0
+blue curacao: 30.0
+cointreau: 30.0
+end
+bat bite
+cranberry juice: 90.0
+white rum: 30.0
+end
+Bay Breeze
+white rum: 60.0
+pineapple juice: 15.0
+cranberry juice: 90.0
+end
+bent
+coke: 60.0
+vodka: 90.0
+end
+bills bongo bay
+midori: 30.0
+white rum: 30.0
+grenadine: 15.0
+pineapple juice: 90.0
+end
+Bird of Paradise
+tequila: 30.0
+white creme de cacao: 30.0
+amaretto: 15.0
+cream: 60.0
+end
+Bitter Lemon
+grand marnier: 30.0
+lemon juice: 120.0
+end
+Black Russian
+vodka: 45.0
+kahlua: 30.0
+end
+blackbird
+tequila: 60.0
+vodka: 60.0
+cranberry juice: 60.0
+end
+Blood and Sand
+whiskey: 30.0
+cherry liqueur: 30.0
+sweet vermouth: 30.0
+orange juice: 30.0
+end
+Bloody Maria
+tequila: 45.0
+worcestershire: 10.0
+tabasco: 10.0
+lime juice: 10.0
+tomato juice: 120.0
+end
+Bloody Mary
+vodka: 45.0
+tomato juice: 90.0
+lemon juice: 10.0
+worcestershire: 10.0
+tabasco: 10.0
+end
+bloody oj
+vodka: 90.0
+orange juice: 60.0
+grenadine: 15.0
+end
+Blow Job Shooter
+creme de banana: 15.0
+grand marnier: 15.0
+kahlua: 15.0
+cream: 15.0
+end
+Blue Margarita
+tequila: 45.0
+blue curacao: 30.0
+sour mix: 120.0
+end
+bob marley
+pineapple juice: 90.0
+white rum: 90.0
+end
+bocce ball
+amaretto: 60.0
+orange juice: 90.0
+end
+Bourbonella
+whiskey: 60.0
+dry vermouth: 30.0
+orange curacao: 30.0
+grenadine: 15.0
+end
+brain stomper
+gin: 30.0
+orange juice: 30.0
+white rum: 30.0
+sour mix: 30.0
+vodka: 30.0
+end
+Bramble
+gin: 60.0
+lime juice: 30.0
+sugar syrup: 15.0
+creme de mure: 30.0
+end
+brass monkey
+white rum: 30.0
+vodka: 30.0
+orange juice: 90.0
+end
+Brave Bull
+tequila: 45.0
+kahlua: 30.0
+end
+brians honey getter
+gin: 60.0
+orange juice: 60.0
+cranberry juice: 60.0
+end
+Brooke Shields
+orange juice: 60.0
+lemon juice: 30.0
+lime juice: 10.0
+grenadine: 10.0
+ginger beer: 90.0
+end
+Byelorussian Martini
+vodka: 45.0
+pomegranate juice: 10.0
+end
+cactus breeze
+cranberry juice: 60.0
+pineapple juice: 60.0
+sour mix: 30.0
+vodka: 30.0
+end
+Cactus Flower
+tabasco: 10.0
+tequila: 60.0
+end
+Café
+grand marnier: 30.0
+coffee: 120.0
+cream: 30.0
+end
+califoria iced tea
+orange juice: 30.0
+pineapple juice: 30.0
+white rum: 30.0
+tequila: 30.0
+triplesec: 30.0
+gin: 15.0
+sour mix: 15.0
+vodka: 15.0
+end
+california lemonade
+whiskey: 90.0
+sour mix: 90.0
+grenadine: 10.0
+end
+calypso cooler
+amaretto: 30.0
+white rum: 30.0
+orange juice: 90.0
+grenadine: 10.0
+end
+cape cod
+vodka: 60.0
+cranberry juice: 90.0
+end
+captains crush
+amaretto: 30.0
+white rum: 60.0
+pineapple juice: 90.0
+end
+carranco
+orange juice: 90.0
+white rum: 90.0
+end
+Caruso
+gin: 60.0
+dry vermouth: 15.0
+green creme de menthe: 15.0
+end
+Champagne
+grand marnier: 10.0
+orange juice: 30.0
+champagne: 60.0
+end
+Champagne Cocktail
+sugar syrup: 10.0
+angostura bitters: 10.0
+champagne: 120.0
+end
+cherry coke
+amaretto: 30.0
+coke: 90.0
+end
+Chocolate Mint Martini
+vodka: 60.0
+white creme de cacao: 30.0
+white creme de menthe: 15.0
+end
+Citronella Cooler
+vodka: 30.0
+white rum: 10.0
+coconut rum: 10.0
+pineapple juice: 120.0
+grenadine: 10.0
+end
+Coco Colada
+pineapple juice: 120.0
+coconut milk: 60.0
+end
+colarado bulldog
+kahlua: 30.0
+vodka: 60.0
+coke: 60.0
+end
+Collins
+grand marnier: 30.0
+sparkling water: 60.0
+lemon juice: 90.0
+end
+compudreams
+orange juice: 60.0
+pineapple juice: 30.0
+white rum: 90.0
+end
+cool breeze
+cranberry juice: 30.0
+pineapple juice: 60.0
+white rum: 90.0
+end
+Corpse Reviver Number Four
+frangelico: 30.0
+maraschino: 30.0
+green chartreuse: 30.0
+end
+Cosmopolitan
+vodka: 30.0
+grand marnier: 15.0
+cranberry juice: 15.0
+lime juice: 10.0
+end
+Cosmopolitan Martini
+vodka: 30.0
+cranberry liqueur: 15.0
+end
+Cosmoquila
+tequila: 45.0
+cointreau: 30.0
+cranberry juice: 45.0
+lime juice: 15.0
+end
+cranberry juice
+cranberry juice: 90.0
+end
+cranberry kahlua
+kahlua: 60.0
+cranberry juice: 90.0
+end
+cribb
+cranberry juice: 90.0
+vodka: 60.0
+end
+Daiquiri
+lime juice: 30.0
+sugar syrup: 15.0
+white rum: 60.0
+end
+Daiquiri Shots
+lime juice: 15.0
+sugar syrup: 15.0
+white rum: 60.0
+end
+dave
+vodka: 60.0
+orange juice: 90.0
+grenadine: 30.0
+end
+dave on the floor
+whiskey: 30.0
+vodka: 30.0
+gin: 30.0
+tonic water: 90.0
+end
+daytona
+triplesec: 30.0
+vodka: 30.0
+white rum: 30.0
+orange juice: 90.0
+end
+Deep Love
+baileys: 60.0
+orange curacao: 60.0
+end
+desert sunrise
+orange juice: 60.0
+pineapple juice: 60.0
+vodka: 60.0
+grenadine: 15.0
+end
+Detriot Martini
+vodka: 60.0
+sugar syrup: 10.0
+orange bitters: 10.0
+end
+dirty diaper
+orange juice: 90.0
+white rum: 60.0
+tonic water: 30.0
+end
+dirty dinger
+amaretto: 30.0
+cranberry juice: 30.0
+sour mix: 30.0
+midori: 30.0
+vodka: 30.0
+end
+dr zhivago
+coke: 90.0
+vodka: 30.0
+end
+drew driver
+cranberry juice: 90.0
+gin: 30.0
+end
+Dry Martini
+dry vermouth: 15.0
+gin: 60.0
+end
+Elle for Leather
+vanilla schnapps: 30.0
+lemon juice: 30.0
+sugar syrup: 15.0
+whiskey: 30.0
+champagne: 90.0
+end
+Emerald Isle
+baileys: 60.0
+brandy: 60.0
+cream: 15.0
+end
+enebriator
+amaretto: 30.0
+gin: 30.0
+triplesec: 30.0
+vodka: 30.0
+pineapple juice: 60.0
+end
+Face Eraser
+baileys: 60.0
+hazelnut liqueur: 30.0
+soda water: 90.0
+end
+Fair and Warmer Cocktail
+sweet vermouth: 30.0
+orange curacao: 15.0
+white rum: 60.0
+end
+foxhaven suprise
+gin: 30.0
+grenadine: 15.0
+vodka: 60.0
+orange juice: 90.0
+end
+Freddy Fuddpucker
+tequila: 45.0
+orange juice: 10.0
+galliano: 30.0
+end
+French Connection
+grand marnier: 30.0
+cognac: 30.0
+end
+frog
+gin: 60.0
+sour mix: 60.0
+triplesec: 60.0
+end
+frozen matador
+pineapple juice: 90.0
+tequila: 60.0
+grenadine: 15.0
+end
+fruit rind
+white rum: 60.0
+cranberry juice: 30.0
+orange juice: 60.0
+grenadine: 15.0
+end
+Gentle Sea Breeze
+cranberry juice: 15.0
+pineapple juice: 15.0
+end
+gin and sin
+gin: 60.0
+sour mix: 60.0
+orange juice: 15.0
+grenadine: 15.0
+end
+Gin and Tonic
+gin: 60.0
+tonic water: 120.0
+end
+go juice
+pineapple juice: 60.0
+white rum: 60.0
+vodka: 60.0
+end
+Golden Dream
+galliano: 60.0
+cointreau: 30.0
+orange juice: 30.0
+cream: 30.0
+end
+Golden Margarita
+cuervo: 45.0
+grand marnier: 30.0
+sour mix: 10.0
+lime juice: 10.0
+end
+Goom Bay Smash
+coconut rum: 30.0
+creme de banana: 15.0
+orange juice: 15.0
+pineapple juice: 15.0
+white rum: 30.0
+end
+Grand Royale
+grand marnier: 30.0
+pineapple juice: 90.0
+end
+grass skirt
+gin: 60.0
+triplesec: 60.0
+pineapple juice: 60.0
+grenadine: 15.0
+end
+Grasshopper
+green creme de menthe: 60.0
+white creme de cacao: 60.0
+cream: 30.0
+end
+grateful dead
+gin: 30.0
+tequila: 30.0
+triplesec: 30.0
+white rum: 30.0
+vodka: 30.0
+sour mix: 30.0
+end
+Greasy Mick
+baileys: 60.0
+tequila: 60.0
+end
+Green Eyes
+midori: 40.0
+cream of coconut: 15.0
+lime juice: 15.0
+white rum: 30.0
+end
+Green Genie
+green chartreuse: 30.0
+tequila: 30.0
+end
+grenadine
+grenadine: 15.0
+end
+gummy bear
+amaretto: 15.0
+midori: 15.0
+whiskey: 15.0
+orange juice: 60.0
+pineapple juice: 60.0
+grenadine: 15.0
+end
+Harvey Wallbanger
+vodka: 30.0
+orange juice: 120.0
+galliano: 30.0
+end
+Havana Cocktail
+pineapple juice: 110.0
+grenadine: 10.0
+white rum: 30.0
+end
+Havana Cocktail
+pineapple juice: 45.0
+lemon juice: 15.0
+white rum: 30.0
+end
+Hawaiian Delight
+pineapple juice: 120.0
+white rum: 30.0
+end
+Hawaiian Pirate
+cranberry juice: 60.0
+pineapple juice: 60.0
+midori: 20.0
+white rum: 30.0
+end
+hellz yizz nazz
+orange juice: 60.0
+pineapple juice: 60.0
+white rum: 60.0
+end
+Honeymoon Cocktail
+apple juice: 10.0
+orange juice: 10.0
+lime juice: 60.0
+end
+hurricane
+orange juice: 60.0
+pineapple juice: 90.0
+white rum: 30.0
+grenadine: 15.0
+end
+Ice Tea
+grand marnier: 30.0
+ice tea: 120.0
+end
+Indian Summer
+pineapple juice: 90.0
+kahlua: 45.0
+vodka: 45.0
+end
+Intimate Encounter
+malibu: 30.0
+baileys: 30.0
+amaretto: 30.0
+kahlua: 30.0
+cream: 30.0
+end
+Italian Sunrise
+amaretto: 25.0
+vodka: 25.0
+pineapple juice: 120.0
+end
+Italian Surfer
+amaretto: 30.0
+malibu: 30.0
+cranberry juice: 15.0
+pineapple juice: 15.0
+end
+IVF Martini
+absinthe: 30.0
+kahlua: 30.0
+coffee: 60.0
+cream: 30.0
+end
+jack and coke
+whiskey: 60.0
+coke: 90.0
+end
+Jackhammer
+pineapple juice: 150.0
+vodka: 30.0
+end
+Jagerita
+jagermeister: 15.0
+cuervo: 15.0
+cointreau: 15.0
+lime juice: 10.0
+end
+Jamaican Dust
+tia maria: 30.0
+pineapple juice: 30.0
+white rum: 30.0
+end
+jamaican jive
+cranberry juice: 90.0
+white rum: 60.0
+end
+Japanese Slipper
+midori: 30.0
+triplesec: 30.0
+lemon juice: 30.0
+end
+Just As Nice
+baileys: 30.0
+drambuie: 15.0
+butterscotch schnapps: 15.0
+cream: 75.0
+end
+Kapu-Kai
+white rum: 30.0
+lime juice: 15.0
+sugar syrup: 15.0
+end
+Komplex Babylonia
+gin: 30.0
+rum: 30.0
+pineapple: 90.0
+end
+La Florida
+white rum: 30.0
+italian vermouth: 15.0
+white creme de cacao: 10.0
+blue curacao: 10.0
+grenadine: 10.0
+lime juice: 30.0
+end
+Lady Hunt
+whiskey: 60.0
+tia maria: 15.0
+amaretto: 15.0
+lemon juice: 60.0
+end
+Lemonade
+grand marnier: 30.0
+lemonade: 120.0
+end
+Leprechaun
+whiskey: 45.0
+tonic: 120.0
+end
+lieutenant lopez
+white rum: 30.0
+pineapple juice: 30.0
+orange juice: 90.0
+end
+Linstead
+whiskey: 60.0
+pineapple juice: 60.0
+sugar syrup: 10.0
+pastis: 10.0
+end
+Liquid Cocaine
+amaretto: 15.0
+whiskey: 15.0
+pineapple juice: 150.0
+end
+Liquid Spree
+amaretto: 15.0
+midori: 15.0
+rum: 15.0
+vodka: 15.0
+sour mix: 100.0
+end
+Long Beach
+gin: 20.0
+rum: 20.0
+tequila: 20.0
+vodka: 20.0
+sour mix: 45.0
+cranberry juice: 45.0
+end
+Long Beach Iced Tea
+gin: 20.0
+midori: 20.0
+rum: 20.0
+triplesec: 20.0
+vodka: 20.0
+cranberry juice: 60.0
+end
+Long Hawaiian
+whiskey: 45.0
+pineapple: 120.0
+end
+Long Island Iced Tea
+gin: 20.0
+rum: 20.0
+tequila: 20.0
+triplesec: 20.0
+vodka: 20.0
+cola: 20.0
+sour mix: 45.0
+end
+Loudmouth
+kahlua: 30.0
+tequila: 30.0
+cranberry juice: 90.0
+end
+Love Mountain
+vodka: 30.0
+creme de cassis: 15.0
+baileys: 15.0
+cream: 15.0
+grenadine: 15.0
+end
+macattack
+midori: 60.0
+white rum: 60.0
+sour mix: 60.0
+end
+madras
+vodka: 60.0
+cranberry juice: 60.0
+orange juice: 60.0
+end
+mafias kiss
+amaretto: 60.0
+whiskey: 60.0
+sour mix: 60.0
+end
+magpies swamp water
+amaretto: 30.0
+midori: 30.0
+white rum: 30.0
+vodka: 30.0
+sour mix: 30.0
+end
+Mai Tai
+triplesec: 25.0
+rum: 45.0
+amaretto: 15.0
+sour mix: 45.0
+grenadine: 10.0
+end
+Mai Tai
+white rum: 60.0
+orange curacao: 30.0
+apricot brandy: 30.0
+lime juice: 30.0
+orgeat syrup: 15.0
+sugar syrup: 15.0
+end
+Malibu Wipeout
+cranberry juice: 45.0
+pineapple: 45.0
+vodka: 45.0
+white rum: 60.0
+end
+Margarita
+tequila: 45.0
+triplesec: 30.0
+sour mix: 10.0
+lime juice: 10.0
+end
+Margarita
+grand marnier: 30.0
+tequila: 30.0
+lime juice: 30.0
+end
+maui wowie punch
+midori: 30.0
+white rum: 30.0
+orange juice: 60.0
+pineapple juice: 60.0
+end
+Mellow Martian
+green creme de cacao: 30.0
+midori: 30.0
+baileys: 30.0
+end
+Melon Ball
+midori: 45.0
+vodka: 45.0
+pineapple: 90.0
+end
+mersh
+vodka: 30.0
+cranberry juice: 30.0
+coke: 90.0
+end
+Metropolitan
+vodka: 60.0
+cointreau: 30.0
+lime juice: 30.0
+cranberry juice: 30.0
+end
+Mexican Berry
+chambord: 30.0
+cuervo: 15.0
+end
+Mexican Coffee
+kahlua: 30.0
+tequila: 30.0
+coffee: 60.0
+whipped cream: 15.0
+end
+Midnight Madness
+triplesec: 25.0
+vodka: 25.0
+cranberry juice: 45.0
+orange juice: 45.0
+end
+midori
+midori: 30.0
+end
+Midori 2000
+midori: 30.0
+blue curacao: 15.0
+banana liqueur: 15.0
+coconut rum: 15.0
+lemonade: 90.0
+end
+Midori Alexander
+midori: 45.0
+brandy: 30.0
+cream: 30.0
+end
+Midori Avalanche
+midori: 30.0
+blue curacao: 30.0
+triplesec: 15.0
+pineapple juice: 120.0
+end
+Midori Eggnog
+midori: 45.0
+eggnog: 60.0
+end
+Midori Green Russian
+midori: 45.0
+vodka: 45.0
+cream: 15.0
+end
+Midori Hot Chocolate
+midori: 30.0
+hot chocolate: 15.0
+end
+Midori Pina Colada
+midori: 30.0
+coconut milk: 60.0
+pineapple juice: 60.0
+white rum: 30.0
+end
+Midori Sex on the Beach
+midori: 30.0
+vodka: 30.0
+raspberry liqueur: 30.0
+pineapple juice: 30.0
+cranberry juice: 30.0
+end
+mike tyson
+kahlua: 30.0
+triplesec: 30.0
+vodka: 60.0
+orange juice: 60.0
+grenadine: 10.0
+end
+Mimosa
+cointreau: 15.0
+orange juice: 30.0
+champagne: 90.0
+end
+Mind Eraser
+vodka: 10.0
+kahlua: 10.0
+club soda: 10.0
+end
+Mini Guinness
+kahlua: 60.0
+baileys: 30.0
+end
+Mir Cocktail
+vodka: 120.0
+amaretto: 30.0
+end
+mirandas cool breeze
+white rum: 60.0
+sour mix: 15.0
+cranberry juice: 60.0
+pineapple juice: 60.0
+end
+Mojito
+sugar syrup: 15.0
+white rum: 60.0
+soda water: 90.0
+end
+Moscow Mule
+vodka: 60.0
+lime juice: 30.0
+ginger beer: 90.0
+end
+mvp
+white rum: 30.0
+vodka: 30.0
+pineapple juice: 90.0
+end
+Nassau Sam
+amaretto: 15.0
+vodka: 15.0
+pineapple: 150.0
+end
+neck brace
+white rum: 60.0
+triplesec: 30.0
+orange juice: 90.0
+end
+Negroni
+campari: 30.0
+gin: 30.0
+red vermouth: 30.0
+end
+nn
+gin: 30.0
+vodka: 30.0
+cranberry juice: 60.0
+orange juice: 60.0
+end
+Oatmeal Cookie Cocktail
+baileys: 30.0
+butterscotch schnapps: 30.0
+cinnamon schnapps: 30.0
+end
+OJ Comfort
+whiskey: 30.0
+orange juice: 150.0
+end
+old dirty suprise
+midori: 30.0
+white rum: 30.0
+vodka: 60.0
+pineapple juice: 60.0
+end
+Old Fashioned
+sugar syrup: 10.0
+angostura bitters: 10.0
+whiskey: 60.0
+end
+Orange
+grand marnier: 30.0
+orange juice: 60.0
+end
+orange blossom
+gin: 60.0
+triplesec: 30.0
+orange juice: 90.0
+end
+Orange Daiquiri
+lemon juice: 30.0
+sugar syrup: 10.0
+white rum: 60.0
+end
+Orange Flux
+gin: 15.0
+vodka: 15.0
+tequila: 30.0
+orange juice: 90.0
+end
+orange juice
+orange juice: 90.0
+end
+orange spew
+white rum: 60.0
+cranberry juice: 60.0
+orange juice: 60.0
+end
+Outrigger
+white rum: 30.0
+amaretto: 15.0
+cranberry juice: 15.0
+pineapple juice: 15.0
+dark rum: 15.0
+end
+oxb
+whiskey: 30.0
+tequila: 15.0
+orange juice: 90.0
+grenadine: 15.0
+end
+P.S. I Love You
+baileys: 30.0
+amaretto: 30.0
+kahlua: 30.0
+cream: 60.0
+white rum: 30.0
+end
+Paddio
+gin: 10.0
+whiskey: 10.0
+vodka: 10.0
+orange juice: 60.0
+cranberry juice: 60.0
+white rum: 10.0
+end
+Palm Breeze
+pineapple: 60.0
+orange juice: 60.0
+white rum: 60.0
+end
+Panama Red
+cuervo: 45.0
+triplesec: 30.0
+sour mix: 10.0
+grenadine: 10.0
+end
+passionate drooler
+triplesec: 30.0
+vodka: 60.0
+pineapple juice: 90.0
+end
+pearl harbor
+midori: 15.0
+vodka: 30.0
+pineapple juice: 90.0
+end
+Perfect Manhattan
+whiskey: 60.0
+dry vermouth: 15.0
+sweet vermouth: 15.0
+angostura bitters: 10.0
+end
+Perfect Margarita
+tequila: 45.0
+cointreau: 30.0
+lime juice: 30.0
+lemon juice: 30.0
+end
+Perfect Poison
+midori: 20.0
+triplesec: 20.0
+vodka: 45.0
+cranberry juice: 75.0
+end
+Peter's Friends
+whiskey: 60.0
+blue curacao: 30.0
+lemon juice: 10.0
+end
+pi kapp special
+whiskey: 90.0
+cranberry juice: 90.0
+end
+Pina Colada
+coconut milk: 30.0
+cream: 15.0
+pineapple juice: 30.0
+white rum: 60.0
+end
+Pineapple Bomb
+vodka: 10.0
+peach schnapps: 10.0
+pineapple juice: 10.0
+end
+Pineapple Bomber
+whiskey: 30.0
+amaretto: 15.0
+orange juice: 90.0
+white rum: 30.0
+end
+Pineapple Jack
+whiskey: 90.0
+pineapple juice: 90.0
+end
+pineapple juice
+pineapple juice: 90.0
+end
+Pink Gin
+angostura bitters: 15.0
+gin: 60.0
+end
+Pink Pussycat
+vodka: 30.0
+pineapple juice: 120.0
+grenadine: 10.0
+end
+Pink Tracy
+rum: 15.0
+vodka: 30.0
+pineapple juice: 120.0
+grenadine: 10.0
+end
+Planters Punch
+lime juice: 30.0
+sugar syrup: 30.0
+pineapple juice: 100.0
+white rum: 30.0
+end
+porn bu
+white rum: 90.0
+orange juice: 30.0
+pineapple juice: 30.0
+end
+Posh Tequila Slammer
+tequila: 30.0
+champagne: 30.0
+end
+Pousse Café
+grenadine: 15.0
+green creme de menthe: 15.0
+galliano: 15.0
+kummel: 15.0
+brandy: 15.0
+end
+Psycho Tsunami
+blue curacao: 30.0
+lime juice: 30.0
+tequila: 30.0
+tabasco: 10.0
+end
+Purple Nipple
+tequila: 15.0
+blue curacao: 10.0
+gin: 10.0
+end
+Purple Passion
+vodka: 60.0
+chambord: 30.0
+end
+Pussy foot
+orange juice: 15.0
+grapefruit juice: 15.0
+grenadine: 15.0
+lemon juice: 30.0
+end
+Quarter Deck Cocktail
+sherry: 15.0
+lime juice: 15.0
+white rum: 60.0
+end
+Quick Sand
+kahlua: 10.0
+midori: 10.0
+baileys: 10.0
+end
+Quikster's Delight
+orange juice: 60.0
+pineapple juice: 60.0
+grenadine: 10.0
+white rum: 30.0
+end
+Rabbit Punch Cocktail
+campari: 10.0
+dark creme de cacao: 10.0
+malibu: 10.0
+baileys: 15.0
+end
+rasta spliff
+white rum: 60.0
+orange juice: 60.0
+pineapple juice: 60.0
+end
+Rat Pack Manhattan
+whiskey: 30.0
+grand marnier: 30.0
+red vermouth: 15.0
+dry vermouth: 15.0
+angostura bitters: 10.0
+end
+Red C
+vodka: 60.0
+cranberry juice: 10.0
+end
+Red Devil
+amaretto: 45.0
+whiskey: 45.0
+cranberry juice: 45.0
+end
+Red Lion
+grand marnier: 30.0
+gin: 30.0
+orange juice: 15.0
+lemon juice: 15.0
+end
+release valve
+white rum: 30.0
+vodka: 30.0
+pineapple juice: 90.0
+grenadine: 15.0
+end
+Rigor Mortis
+vodka: 45.0
+amaretto: 30.0
+orange juice: 30.0
+pineapple juice: 30.0
+end
+rococo
+vodka: 60.0
+triplesec: 30.0
+orange juice: 90.0
+end
+Rum Punch
+rum: 30.0
+cranberry juice: 45.0
+orange juice: 45.0
+pineapple juice: 45.0
+end
+Rumball
+midori: 30.0
+orange juice: 15.0
+white rum: 30.0
+end
+russian neck brace
+triplesec: 30.0
+vodka: 60.0
+orange juice: 90.0
+end
+Russian Nights
+vodka: 30.0
+expresso: 60.0
+cream: 30.0
+end
+russian turkey
+vodka: 90.0
+cranberry juice: 90.0
+end
+Rusty Nail
+whiskey: 60.0
+drambuie: 30.0
+end
+Safe Sex on the Beach
+peach juice: 60.0
+pineapple juice: 15.0
+orange juice: 15.0
+lime juice: 60.0
+end
+salhman
+amaretto: 30.0
+triplesec: 30.0
+tequila: 30.0
+orange juice: 90.0
+end
+Samba
+triplesec: 15.0
+orange juice: 45.0
+pineapple juice: 45.0
+grenadine: 10.0
+white rum: 30.0
+end
+Sandcastle
+vodka: 45.0
+pineapple juice: 90.0
+grenadine: 45.0
+end
+Sauzaliky
+tequila: 30.0
+orange juice: 10.0
+lemon juice: 10.0
+end
+Scooby Snack
+midori: 30.0
+pineapple juice: 15.0
+milk: 15.0
+white rum: 30.0
+end
+screw in the tropics
+vodka: 60.0
+pineapple juice: 60.0
+orange juice: 60.0
+end
+screwdriver
+vodka: 30.0
+orange juice: 90.0
+end
+Seabreeze
+vodka: 30.0
+cranberry juice: 60.0
+grapefruit juice: 60.0
+end
+seersucker
+white rum: 60.0
+orange juice: 30.0
+tonic water: 90.0
+grenadine: 10.0
+end
+Seventh Heaven
+whiskey: 20.0
+amaretto: 10.0
+orange juice: 150.0
+end
+Sex on the Beach
+vodka: 30.0
+peach schnapps: 45.0
+pineapple juice: 60.0
+cranberry juice: 30.0
+end
+Sex on the Beach shooter
+vodka: 10.0
+peach schnapps: 10.0
+orange juice: 10.0
+cranberry juice: 10.0
+end
+sexy sam
+white rum: 30.0
+pineapple juice: 60.0
+orange juice: 90.0
+grenadine: 15.0
+end
+Shady Lady
+tequila: 30.0
+melon liqueur: 30.0
+grapefruit juice: 120.0
+end
+Shady Lady
+tequila: 60.0
+midori: 30.0
+grapefruit juice: 120.0
+end
+Shamrock Express
+coffee: 45.0
+vodka: 15.0
+baileys: 30.0
+butterscotch schnapps: 30.0
+sugar syrup: 15.0
+end
+Shirley Temple
+grenadine: 30.0
+ginger beer: 90.0
+lemon juice: 60.0
+end
+shut the hell up
+cranberry juice: 90.0
+white rum: 30.0
+whiskey: 30.0
+tequila: 30.0
+end
+Sidecar
+cognac: 60.0
+cointreau: 15.0
+lemon juice: 15.0
+water: 15.0
+end
+Singapore Sling
+gin: 60.0
+benedictine: 15.0
+cherry brandy: 15.0
+lemon juice: 30.0
+sugar syrup: 15.0
+soda water: 60.0
+end
+Slam Dunk
+whiskey: 30.0
+orange juice: 60.0
+cranberry juice: 60.0
+end
+Sour
+grand marnier: 30.0
+lemon juice: 90.0
+end
+southern belle
+triplesec: 30.0
+whiskey: 60.0
+sour mix: 30.0
+pineapple juice: 60.0
+grenadine: 15.0
+end
+southern sailor
+white rum: 30.0
+whiskey: 60.0
+orange juice: 90.0
+end
+Strawberry Marguarita
+tequila: 30.0
+triplesec: 15.0
+sour mix: 10.0
+end
+sunshine death
+orange juice: 60.0
+tequila: 60.0
+vodka: 60.0
+end
+sunshot
+vodka: 30.0
+triplesec: 30.0
+orange juice: 90.0
+end
+T.K.O.
+tequila: 30.0
+kahlua: 30.0
+ouzo: 30.0
+end
+Tatanka
+apple juice: 120.0
+vodka: 60.0
+end
+Tequila Cranberry
+tequila: 45.0
+cranberry juice: 120.0
+end
+Tequila Stinger
+tequila: 60.0
+white creme de menthe: 30.0
+end
+Tequila Sunrise
+tequila: 45.0
+orange juice: 60.0
+grenadine: 15.0
+end
+Tequini
+tequila: 45.0
+dry vermouth: 10.0
+end
+texas mud slammer
+whiskey: 60.0
+orange juice: 60.0
+coke: 60.0
+end
+Texas Tea
+tequila: 45.0
+triplesec: 20.0
+vodka: 20.0
+sour mix: 45.0
+cola: 20.0
+white rum: 30.0
+end
+The Geek
+chambord: 30.0
+vodka: 30.0
+end
+The Soviet
+vodka: 60.0
+sherry: 30.0
+dry vermouth: 15.0
+end
+The Wibble
+gin: 60.0
+grapefruit juice: 30.0
+lemon juice: 15.0
+sugar syrup: 15.0
+creme de mure: 15.0
+end
+Tia Rumba
+tia maria: 60.0
+white rum: 60.0
+end
+Tidal Wave
+gin: 15.0
+tequila: 15.0
+vodka: 15.0
+orange juice: 30.0
+pineapple juice: 45.0
+grenadine: 10.0
+white rum: 30.0
+end
+Tight Fit
+vodka: 10.0
+baileys: 10.0
+creme de cacao: 10.0
+cream: 30.0
+end
+tire swing
+amaretto: 60.0
+white rum: 30.0
+orange juice: 90.0
+end
+tnt
+tequila: 30.0
+tonic water: 90.0
+end
+Toasted Almond
+amaretto: 30.0
+kahlua: 30.0
+cream: 45.0
+end
+tokyo tea
+gin: 30.0
+midori: 30.0
+white rum: 30.0
+triplesec: 30.0
+vodka: 30.0
+sour mix: 30.0
+end
+Tonic
+grand marnier: 30.0
+tonic water: 120.0
+end
+Tootsie Roll
+kahlua: 45.0
+orange juice: 120.0
+end
+triplesec
+triplesec: 30.0
+end
+Tropical Hoot Punch
+rum: 60.0
+midori: 15.0
+pineapple juice: 45.0
+cranberry juice: 45.0
+end
+tsc
+triplesec: 30.0
+vodka: 60.0
+cranberry juice: 90.0
+end
+vicow samba
+vodka: 60.0
+triplesec: 60.0
+pineapple juice: 60.0
+end
+Virgin Mary
+tomato juice: 30.0
+tabasco: 10.0
+worcestershire: 10.0
+horseradish sauce: 10.0
+lemon juice: 60.0
+end
+vodka
+vodka: 30.0
+end
+vodka and cranberry
+vodka: 60.0
+cranberry juice: 90.0
+end
+vodka and tonic
+vodka: 30.0
+tonic water: 90.0
+end
+Vodka Expresso
+vodka: 60.0
+coffee: 60.0
+sugar syrup: 10.0
+kahlua: 15.0
+end
+Vodka Smooth
+triplesec: 15.0
+vodka: 45.0
+orange juice: 90.0
+grenadine: 10.0
+end
+Wahine
+lemon juice: 15.0
+pineapple juice: 45.0
+white rum: 30.0
+vodka: 30.0
+sugar syrup: 10.0
+end
+Waikiki Beachcomber
+gin: 30.0
+triplesec: 30.0
+pineapple juice: 100.0
+end
+Waterloo
+vodka: 60.0
+apricot brandy: 30.0
+end
+Wee Scotch Dram
+baileys: 90.0
+drambuie: 60.0
+whiskey: 30.0
+end
+white rum
+white rum: 30.0
+end
+White Russian
+vodka: 60.0
+kahlua: 30.0
+cream: 30.0
+end
+Winter Martini
+apple schnapps: 30.0
+cognac: 75.0
+sugar syrup: 30.0
+end
+wipeout punch
+vodka: 30.0
+white rum: 90.0
+cranberry juice: 30.0
+pineapple juice: 30.0
+end
+Wit Killer
+whiskey: 40.0
+orange juice: 100.0
+white rum: 30.0
+end
+X Y Z
+triplesec: 15.0
+sour mix: 15.0
+white rum: 30.0
+end
+Yellow Bird
+amaretto: 15.0
+orange juice: 45.0
+pineapple juice: 45.0
+white rum: 60.0
+end
+Yellow Bird
+galliano: 30.0
+creme de banana: 30.0
+orange juice: 15.0
+pineapple juice: 15.0
+lime juice: 15.0
+white rum: 30.0
+end
+yer mom
+amaretto: 30.0
+white rum: 30.0
+coke: 90.0
+end
+Zombie
+white rum: 60.0
+dark rum: 30.0
+apricot brandy: 30.0
+sugar syrup: 15.0
+pineapple juice: 30.0
+overproof rum: 30.0
+end
+Zowie Cocktail
+banana liqueur: 30.0
+baileys: 30.0
+malibu: 30.0
+end
+Zulu Warrior
+midori: 30.0
+strawberry liqueur: 30.0
+lemon juice: 30.0
+end
+last
